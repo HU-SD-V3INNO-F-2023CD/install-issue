@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "local": "vite build",
+    "buildlocal": "vite build",
     "build": "vite build --base=install-issue/",
     "preview": "vite preview"
   },
