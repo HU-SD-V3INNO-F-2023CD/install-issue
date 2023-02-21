@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "local": "vite build",
-    "build": "vite build --base=learningstory-cache-Alex-Jongman/",
+    "build": "vite build --base=install-issue/",
     "preview": "vite preview"
   },
   "devDependencies": {
