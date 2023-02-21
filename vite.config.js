@@ -3,7 +3,6 @@ import { resolve } from 'path'
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  // base: "/learningstory-cache-Alex-Jongman",
   build: {
     rollupOptions: {
       input: {
